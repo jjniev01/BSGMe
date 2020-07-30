@@ -1,0 +1,17 @@
+*.tif
+*.7z
+*.qgz
+*.csv
+data/**
+DavidExtracts/**
+DTEvalidations/**
+ESA Observed Population Runs/**
+figures/**
+Modeled Input Validation/**
+OSM Building Validations/**
+Observed Input Validation/**
+OSM Input Validation/**
+output/**
+PolyExtents/**
+TimeNormalizedExtents/**
+

@@ -1,5 +1,3 @@
-[![N|Solid](http://maps.worldpop.org.uk/img/worldpop-logo.png)](http://maps.worldpop.org.uk)
-
 # BSGMe : **B**uilt-**S**ettlement **G**rowth **M**odel - **e**xtrapolation
 ---
 
